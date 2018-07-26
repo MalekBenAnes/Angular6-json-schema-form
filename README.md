@@ -43,6 +43,7 @@ The source code is composed as the following:
 * `src` - the demonstration playground example application
 * `src/assets/example-schemas` - JSON Schema examples used in the playground
 
+
 If you want detailed documentation describing the individual functions used in this library, run `npm run docs` to generate TypeDoc documentation, and then look in the generated `/docs/api` folder. (Angular JSON Schema Form is still a work in progress, so right now this documentation varies from highly detailed to completely missing.)
 
 ### To install from NPM/YARN and use in your own project
